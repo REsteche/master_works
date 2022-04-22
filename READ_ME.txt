@@ -1,1 +1,0 @@
-Here, I record some notebooks and codes that I used during my master's degree to develop my research and improve my understanding of various subjects regarding temporal distributions in Quantum Mechanics.
