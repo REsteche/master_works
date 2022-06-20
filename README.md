@@ -21,10 +21,7 @@ Hope you enjoy!
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=Plastic&logo=c%2B%2B&logoColor=white)
 ![yes](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
 
-![JUPY](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)
 
-
-![msc](http://ForTheBadge.com/images/badges/made-with-python.svg)
 
 ![]()
 ![]()
