@@ -15,6 +15,8 @@ Hope you enjoy!
 > * Gmail: ruben.esteche@ufpe.br
 > * Outlook: rubenesteche@hotmail.com
 
+Ps.: To visualize a preview of any .html output file just add `http://htmlpreview.github.io/?` before the url on your own navigator.
+
 ## Badges 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=Plastic&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=Plastic&logo=c&logoColor=white)
